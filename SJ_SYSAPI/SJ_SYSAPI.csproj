@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>bin\Debug\netcoreapp2.0\</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="NLog" Version="4.7.0" />
+    <PackageReference Include="NLog.Config" Version="4.7.0" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.50" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SJ_BSHelper\SJ_BSHelper.csproj" />
+    <ProjectReference Include="..\SJ_QCMAPI\SJ_QCMAPI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SJeMES_Framework_NETCore">
+      <HintPath>..\AEQS_P88API\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,138 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8kMjv/6XGE=",
+  "success": true,
+  "projectFilePath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\it-software05\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\mysql.data\\8.0.29\\mysql.data.8.0.29.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.private.servicemodel\\4.6.0\\system.private.servicemodel.4.6.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.pkcs\\4.5.0\\system.security.cryptography.pkcs.4.5.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.xml\\4.5.0\\system.security.cryptography.xml.4.5.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.servicemodel.duplex\\4.6.0\\system.servicemodel.duplex.4.6.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.servicemodel.http\\4.6.0\\system.servicemodel.http.4.6.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.servicemodel.nettcp\\4.6.0\\system.servicemodel.nettcp.4.6.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.servicemodel.primitives\\4.6.0\\system.servicemodel.primitives.4.6.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.servicemodel.security\\4.6.0\\system.servicemodel.security.4.6.0.nupkg.sha512",
+    "C:\\Users\\it-software05\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-2xjx-v99w-gqf3",
+      "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-3gp9-h8hw-pxpw",
+      "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-3w5p-jhp5-c29q",
+      "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5633-f33j-c6f7",
+      "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-6px8-22w5-w334",
+      "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-g5vf-38cp-4px9",
+      "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-vgwq-hfqc-58wv",
+      "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'Microsoft.NETCore.App' 2.1.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-x5qj-9vmx-7g6g",
+      "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}

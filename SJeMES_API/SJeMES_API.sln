@@ -1,0 +1,222 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_MESAPI", "..\SJ_MESAPI\SJ_MESAPI.csproj", "{C687E996-784B-464B-A5B6-32EE4200D8EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_QAAPI", "..\SJ_QAAPI\SJ_QAAPI.csproj", "{D280AF04-DED3-41E6-A424-50F6956273F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_SYSAPI", "..\SJ_SYSAPI\SJ_SYSAPI.csproj", "{A20862AE-D779-4819-8E80-A04A2547129A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_BSHelper", "..\SJ_BSHelper\SJ_BSHelper.csproj", "{1DB1F3C4-B2C8-43AC-87AA-5F0581AD6C27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_QCMAPI", "..\SJ_QCMAPI\SJ_QCMAPI.csproj", "{9978C9B7-6F1F-46F4-814D-28611ECF0954}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJeMES_IQC", "..\SJeMES_IQC\SJeMES_IQC.csproj", "{536D7D5E-CBC8-4A37-A0C8-729B9EBA0FA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_TQCAPI", "..\SJ_TQCAPI\SJ_TQCAPI.csproj", "{F99DB917-1C27-4714-8BEA-06AEBA519206}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_OPAPI", "..\SJ_OPAPI\SJ_OPAPI.csproj", "{661E67A6-5FC6-41A1-B609-91399EB05FD1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_AQLAPI", "..\SJ_AQLAPI\SJ_AQLAPI.csproj", "{1C817CFF-1AB3-4765-8511-9E02E8743755}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_BASEAPI", "..\SJ_BASEAPI\SJ_BASEAPI.csproj", "{333DB45A-304A-43DA-8B1E-25D6A7BB6C33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_KanBanAPI", "..\SJ_KanBanAPI\SJ_KanBanAPI.csproj", "{58A65392-0F97-4F77-B749-D4816211F6F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_SAPAPI", "..\SJ_SAPAPI\SJ_SAPAPI.csproj", "{D674C2C7-DD7E-47F1-A95F-525F5431ED86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AEQS_P88API", "..\AEQS_P88API\AEQS_P88API.csproj", "{27FFBDBA-1BCB-4CE1-AEB4-9721785B3012}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.csproj", "{247C224C-F84A-42EC-865D-CFBC4D690CA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_TSMAPI", "..\SJ_TSMAPI\SJ_TSMAPI.csproj", "{C489217A-175A-4B85-8FD7-25A2EE683A75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJeMES_API", "SJeMES_API.csproj", "{45B830B6-A5D9-48D7-9FB9-6CAD8099635C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_SMAPI", "..\SJ_SMAPI\SJ_SMAPI.csproj", "{1C263E48-0061-455B-BEA1-A28D4B6A61BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_RQCAPI", "..\SJ_RQCAPI\SJ_RQCAPI.csproj", "{E5019A75-6AED-46B6-B5AC-CF0A199004FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_PRINTAPI", "..\SJ_PRINTAPI\SJ_PRINTAPI.csproj", "{776680F7-FAEB-4432-B19E-0C42402491E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_BDMAPI", "..\SJ_BDMAPI\SJ_BDMAPI.csproj", "{5EEFD092-0C47-4C4F-B2DC-F8CDB6F0E78C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_DMAPI", "..\SJ_DMAPI\SJ_DMAPI.csproj", "{7CB590B2-C016-4305-98BC-53640B2FDB6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SJ_KBAPI", "..\SJ_KBAPI\SJ_KBAPI.csproj", "{F96F0C8B-E510-4746-A44C-4C71815FCEF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C687E996-784B-464B-A5B6-32EE4200D8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C687E996-784B-464B-A5B6-32EE4200D8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C687E996-784B-464B-A5B6-32EE4200D8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C687E996-784B-464B-A5B6-32EE4200D8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D280AF04-DED3-41E6-A424-50F6956273F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D280AF04-DED3-41E6-A424-50F6956273F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D280AF04-DED3-41E6-A424-50F6956273F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D280AF04-DED3-41E6-A424-50F6956273F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A20862AE-D779-4819-8E80-A04A2547129A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20862AE-D779-4819-8E80-A04A2547129A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20862AE-D779-4819-8E80-A04A2547129A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20862AE-D779-4819-8E80-A04A2547129A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB1F3C4-B2C8-43AC-87AA-5F0581AD6C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB1F3C4-B2C8-43AC-87AA-5F0581AD6C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB1F3C4-B2C8-43AC-87AA-5F0581AD6C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB1F3C4-B2C8-43AC-87AA-5F0581AD6C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9978C9B7-6F1F-46F4-814D-28611ECF0954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9978C9B7-6F1F-46F4-814D-28611ECF0954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9978C9B7-6F1F-46F4-814D-28611ECF0954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9978C9B7-6F1F-46F4-814D-28611ECF0954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536D7D5E-CBC8-4A37-A0C8-729B9EBA0FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536D7D5E-CBC8-4A37-A0C8-729B9EBA0FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536D7D5E-CBC8-4A37-A0C8-729B9EBA0FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536D7D5E-CBC8-4A37-A0C8-729B9EBA0FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99DB917-1C27-4714-8BEA-06AEBA519206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99DB917-1C27-4714-8BEA-06AEBA519206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99DB917-1C27-4714-8BEA-06AEBA519206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99DB917-1C27-4714-8BEA-06AEBA519206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661E67A6-5FC6-41A1-B609-91399EB05FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661E67A6-5FC6-41A1-B609-91399EB05FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661E67A6-5FC6-41A1-B609-91399EB05FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661E67A6-5FC6-41A1-B609-91399EB05FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C817CFF-1AB3-4765-8511-9E02E8743755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C817CFF-1AB3-4765-8511-9E02E8743755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C817CFF-1AB3-4765-8511-9E02E8743755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C817CFF-1AB3-4765-8511-9E02E8743755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333DB45A-304A-43DA-8B1E-25D6A7BB6C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333DB45A-304A-43DA-8B1E-25D6A7BB6C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333DB45A-304A-43DA-8B1E-25D6A7BB6C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333DB45A-304A-43DA-8B1E-25D6A7BB6C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A65392-0F97-4F77-B749-D4816211F6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A65392-0F97-4F77-B749-D4816211F6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A65392-0F97-4F77-B749-D4816211F6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A65392-0F97-4F77-B749-D4816211F6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D674C2C7-DD7E-47F1-A95F-525F5431ED86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D674C2C7-DD7E-47F1-A95F-525F5431ED86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D674C2C7-DD7E-47F1-A95F-525F5431ED86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D674C2C7-DD7E-47F1-A95F-525F5431ED86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FFBDBA-1BCB-4CE1-AEB4-9721785B3012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FFBDBA-1BCB-4CE1-AEB4-9721785B3012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FFBDBA-1BCB-4CE1-AEB4-9721785B3012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FFBDBA-1BCB-4CE1-AEB4-9721785B3012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247C224C-F84A-42EC-865D-CFBC4D690CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247C224C-F84A-42EC-865D-CFBC4D690CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247C224C-F84A-42EC-865D-CFBC4D690CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247C224C-F84A-42EC-865D-CFBC4D690CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C489217A-175A-4B85-8FD7-25A2EE683A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C489217A-175A-4B85-8FD7-25A2EE683A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C489217A-175A-4B85-8FD7-25A2EE683A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C489217A-175A-4B85-8FD7-25A2EE683A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B830B6-A5D9-48D7-9FB9-6CAD8099635C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B830B6-A5D9-48D7-9FB9-6CAD8099635C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B830B6-A5D9-48D7-9FB9-6CAD8099635C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B830B6-A5D9-48D7-9FB9-6CAD8099635C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C263E48-0061-455B-BEA1-A28D4B6A61BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C263E48-0061-455B-BEA1-A28D4B6A61BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C263E48-0061-455B-BEA1-A28D4B6A61BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C263E48-0061-455B-BEA1-A28D4B6A61BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5019A75-6AED-46B6-B5AC-CF0A199004FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5019A75-6AED-46B6-B5AC-CF0A199004FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5019A75-6AED-46B6-B5AC-CF0A199004FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5019A75-6AED-46B6-B5AC-CF0A199004FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776680F7-FAEB-4432-B19E-0C42402491E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776680F7-FAEB-4432-B19E-0C42402491E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776680F7-FAEB-4432-B19E-0C42402491E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776680F7-FAEB-4432-B19E-0C42402491E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEFD092-0C47-4C4F-B2DC-F8CDB6F0E78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEFD092-0C47-4C4F-B2DC-F8CDB6F0E78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEFD092-0C47-4C4F-B2DC-F8CDB6F0E78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEFD092-0C47-4C4F-B2DC-F8CDB6F0E78C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB590B2-C016-4305-98BC-53640B2FDB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB590B2-C016-4305-98BC-53640B2FDB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB590B2-C016-4305-98BC-53640B2FDB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB590B2-C016-4305-98BC-53640B2FDB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96F0C8B-E510-4746-A44C-4C71815FCEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F96F0C8B-E510-4746-A44C-4C71815FCEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F96F0C8B-E510-4746-A44C-4C71815FCEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F96F0C8B-E510-4746-A44C-4C71815FCEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3307A59F-C9C3-4701-8B2D-D008ECF02979}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 23
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.3.0.4:8080/tfs/apc_mes_team
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\SJ_AQLAPI\\SJ_AQLAPI.csproj
+		SccProjectName1 = ../SJ_AQLAPI
+		SccLocalPath1 = ..\\SJ_AQLAPI
+		SccProjectUniqueName2 = ..\\SJ_TSMAPI\\SJ_TSMAPI.csproj
+		SccProjectName2 = ../SJ_TSMAPI
+		SccLocalPath2 = ..\\SJ_TSMAPI
+		SccProjectUniqueName3 = ..\\SJ_MESAPI\\SJ_MESAPI.csproj
+		SccProjectName3 = ../SJ_MESAPI
+		SccLocalPath3 = ..\\SJ_MESAPI
+		SccProjectUniqueName4 = ..\\SJ_QAAPI\\SJ_QAAPI.csproj
+		SccProjectName4 = ../SJ_QAAPI
+		SccLocalPath4 = ..\\SJ_QAAPI
+		SccProjectUniqueName5 = ..\\SJ_SYSAPI\\SJ_SYSAPI.csproj
+		SccProjectName5 = ../SJ_SYSAPI
+		SccLocalPath5 = ..\\SJ_SYSAPI
+		SccProjectUniqueName6 = ..\\SJ_BSHelper\\SJ_BSHelper.csproj
+		SccProjectName6 = ../SJ_BSHelper
+		SccLocalPath6 = ..\\SJ_BSHelper
+		SccProjectUniqueName7 = ..\\SJ_QCMAPI\\SJ_QCMAPI.csproj
+		SccProjectName7 = ../SJ_QCMAPI
+		SccLocalPath7 = ..\\SJ_QCMAPI
+		SccProjectUniqueName8 = ..\\SJeMES_IQC\\SJeMES_IQC.csproj
+		SccProjectName8 = ../SJeMES_IQC
+		SccLocalPath8 = ..\\SJeMES_IQC
+		SccProjectUniqueName9 = ..\\SJ_TQCAPI\\SJ_TQCAPI.csproj
+		SccProjectName9 = ../SJ_TQCAPI
+		SccLocalPath9 = ..\\SJ_TQCAPI
+		SccProjectUniqueName10 = ..\\SJ_OPAPI\\SJ_OPAPI.csproj
+		SccProjectName10 = ../SJ_OPAPI
+		SccLocalPath10 = ..\\SJ_OPAPI
+		SccProjectUniqueName11 = ..\\SJ_BASEAPI\\SJ_BASEAPI.csproj
+		SccProjectName11 = ../SJ_BASEAPI
+		SccLocalPath11 = ..\\SJ_BASEAPI
+		SccProjectUniqueName12 = ..\\SJ_KanBanAPI\\SJ_KanBanAPI.csproj
+		SccProjectName12 = ../SJ_KanBanAPI
+		SccLocalPath12 = ..\\SJ_KanBanAPI
+		SccProjectUniqueName13 = ..\\SJ_SAPAPI\\SJ_SAPAPI.csproj
+		SccProjectName13 = ../SJ_SAPAPI
+		SccLocalPath13 = ..\\SJ_SAPAPI
+		SccProjectUniqueName14 = ..\\AEQS_P88API\\AEQS_P88API.csproj
+		SccProjectName14 = ../AEQS_P88API
+		SccLocalPath14 = ..\\AEQS_P88API
+		SccProjectUniqueName15 = ..\\ClassLibrary1\\ClassLibrary1.csproj
+		SccProjectName15 = ../ClassLibrary1
+		SccLocalPath15 = ..\\ClassLibrary1
+		SccProjectUniqueName16 = SJeMES_API.csproj
+		SccLocalPath16 = .
+		SccProjectUniqueName17 = ..\\SJ_SMAPI\\SJ_SMAPI.csproj
+		SccProjectName17 = ../SJ_SMAPI
+		SccLocalPath17 = ..\\SJ_SMAPI
+		SccProjectUniqueName18 = ..\\SJ_RQCAPI\\SJ_RQCAPI.csproj
+		SccProjectName18 = ../SJ_RQCAPI
+		SccLocalPath18 = ..\\SJ_RQCAPI
+		SccProjectUniqueName19 = ..\\SJ_PRINTAPI\\SJ_PRINTAPI.csproj
+		SccProjectName19 = ../SJ_PRINTAPI
+		SccLocalPath19 = ..\\SJ_PRINTAPI
+		SccProjectUniqueName20 = ..\\SJ_BDMAPI\\SJ_BDMAPI.csproj
+		SccProjectName20 = ../SJ_BDMAPI
+		SccLocalPath20 = ..\\SJ_BDMAPI
+		SccProjectUniqueName21 = ..\\SJ_DMAPI\\SJ_DMAPI.csproj
+		SccProjectName21 = ../SJ_DMAPI
+		SccLocalPath21 = ..\\SJ_DMAPI
+		SccProjectUniqueName22 = ..\\SJ_KBAPI\\SJ_KBAPI.csproj
+		SccProjectName22 = ../SJ_KBAPI
+		SccLocalPath22 = ..\\SJ_KBAPI
+	EndGlobalSection
+EndGlobal

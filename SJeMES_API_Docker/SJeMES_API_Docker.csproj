@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>41410659-7459-49f9-ac25-f34d6cbd5fb8</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\SJWebAPI_NETCore</DockerfileContext>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject>SJWebAPI_NETCore_Docker.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.9.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SJ_BASEAPI\SJ_BASEAPI.csproj" />
+    <ProjectReference Include="..\SJ_DMAPI\SJ_DMAPI.csproj" />
+    <ProjectReference Include="..\SJ_KBAPI\SJ_KBAPI.csproj" />
+    <ProjectReference Include="..\SJ_MESAPI\SJ_MESAPI.csproj" />
+    <ProjectReference Include="..\SJ_QAAPI\SJ_QAAPI.csproj" />
+    <ProjectReference Include="..\SJ_SYSAPI\SJ_SYSAPI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DBConfig.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Dockerfile">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

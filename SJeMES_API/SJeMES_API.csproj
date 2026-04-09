@@ -1,0 +1,76 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>%24/MES_Source/AEQS/WebApi/SJeMES_API</SccProjectName>
+    <SccProvider>{4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}</SccProvider>
+    <SccAuxPath>http://10.3.0.4:8080/tfs/apc_mes_team</SccAuxPath>
+    <SccLocalPath>.</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject></StartupObject>
+    <UserSecretsId>f2723412-4d0f-4556-bf40-523890b0b833</UserSecretsId>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath></OutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath></OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AEQS_P88API\AEQS_P88API.csproj" />
+    <ProjectReference Include="..\SJeMES_IQC\SJeMES_IQC.csproj" />
+    <ProjectReference Include="..\SJ_AQLAPI\SJ_AQLAPI.csproj" />
+    <ProjectReference Include="..\SJ_BASEAPI\SJ_BASEAPI.csproj" />
+    <ProjectReference Include="..\SJ_BSHelper\SJ_BSHelper.csproj" />
+    <ProjectReference Include="..\SJ_DMAPI\SJ_DMAPI.csproj" />
+    <ProjectReference Include="..\SJ_KanBanAPI\SJ_KanBanAPI.csproj" />
+    <ProjectReference Include="..\SJ_KBAPI\SJ_KBAPI.csproj" />
+    <ProjectReference Include="..\SJ_MESAPI\SJ_MESAPI.csproj" />
+    <ProjectReference Include="..\SJ_OPAPI\SJ_OPAPI.csproj" />
+    <ProjectReference Include="..\SJ_PRINTAPI\SJ_PRINTAPI.csproj" />
+    <ProjectReference Include="..\SJ_QAAPI\SJ_QAAPI.csproj" />
+    <ProjectReference Include="..\SJ_QCMAPI\SJ_QCMAPI.csproj" />
+    <ProjectReference Include="..\SJ_RQCAPI\SJ_RQCAPI.csproj" />
+    <ProjectReference Include="..\SJ_SAPAPI\SJ_SAPAPI.csproj" />
+    <ProjectReference Include="..\SJ_SMAPI\SJ_SMAPI.csproj" />
+    <ProjectReference Include="..\SJ_SYSAPI\SJ_SYSAPI.csproj" />
+    <ProjectReference Include="..\SJ_TQCAPI\SJ_TQCAPI.csproj" />
+    <ProjectReference Include="..\SJ_TSMAPI\SJ_TSMAPI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SJeMES_Framework_NETCore">
+      <HintPath>bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Utility">
+      <HintPath>bin\Debug\netcoreapp2.1\Utility.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DBConfig.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

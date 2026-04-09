@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://10.2.198.7:50000/dir/wsdl?p=ic/0544f09d0ced34c6874bc2b98942a9f1"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, Subsection.Logo"
+    ],
+    "targetFramework": "netcoreapp2.0",
+    "typeReuseMode": "All"
+  }
+}

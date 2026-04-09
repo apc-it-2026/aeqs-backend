@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_BDMAPI\\SJ_BDMAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_BDMAPI\\SJ_BDMAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_BDMAPI\\SJ_BDMAPI.csproj",
+        "projectName": "SJ_BDMAPI",
+        "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_BDMAPI\\SJ_BDMAPI.csproj",
+        "packagesPath": "C:\\Users\\it-software05\\.nuget\\packages\\",
+        "outputPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_BDMAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it-software05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_MESAPI\\SJ_MESAPI.csproj": {
+                "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_MESAPI\\SJ_MESAPI.csproj"
+              },
+              "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_QCMAPI\\SJ_QCMAPI.csproj": {
+                "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_QCMAPI\\SJ_QCMAPI.csproj"
+              },
+              "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_SAPAPI\\SJ_SAPAPI.csproj": {
+                "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_SAPAPI\\SJ_SAPAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.29, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_MESAPI\\SJ_MESAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_MESAPI\\SJ_MESAPI.csproj",
+        "projectName": "SJ_MESAPI",
+        "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_MESAPI\\SJ_MESAPI.csproj",
+        "packagesPath": "C:\\Users\\it-software05\\.nuget\\packages\\",
+        "outputPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_MESAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it-software05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_QCMAPI\\SJ_QCMAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_QCMAPI\\SJ_QCMAPI.csproj",
+        "projectName": "SJ_QCMAPI",
+        "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_QCMAPI\\SJ_QCMAPI.csproj",
+        "packagesPath": "C:\\Users\\it-software05\\.nuget\\packages\\",
+        "outputPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_QCMAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it-software05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_MESAPI\\SJ_MESAPI.csproj": {
+                "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_MESAPI\\SJ_MESAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_SAPAPI\\SJ_SAPAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_SAPAPI\\SJ_SAPAPI.csproj",
+        "projectName": "SJ_SAPAPI",
+        "projectPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_SAPAPI\\SJ_SAPAPI.csproj",
+        "packagesPath": "C:\\Users\\it-software05\\.nuget\\packages\\",
+        "outputPath": "D:\\TFS_Source_Code\\AEQS\\WebApi\\SJ_SAPAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\it-software05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.6.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.6.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.6.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.6.*, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

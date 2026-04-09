@@ -1,0 +1,13 @@
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\bin\Debug\netcoreapp2.1\SJ_SMAPI.deps.json
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\bin\Debug\netcoreapp2.1\SJ_SMAPI.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\bin\Debug\netcoreapp2.1\SJ_SMAPI.pdb
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\obj\Debug\netcoreapp2.1\SJ_SMAPI.csproj.CoreCompileInputs.cache
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\obj\Debug\netcoreapp2.1\SJ_SMAPI.AssemblyInfoInputs.cache
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\obj\Debug\netcoreapp2.1\SJ_SMAPI.AssemblyInfo.cs
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\obj\Debug\netcoreapp2.1\SJ_SMAPI.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\obj\Debug\netcoreapp2.1\SJ_SMAPI.pdb
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\obj\Debug\netcoreapp2.1\SJ_SMAPI.csprojAssemblyReference.cache
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\obj\Debug\netcoreapp2.1\SJ_SMAPI.csproj.CopyComplete
+D:\TFS_Source_Code\AEQS\WebApi\SJ_SMAPI\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml

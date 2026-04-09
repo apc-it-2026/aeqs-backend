@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <DBTYPE>sqlserver</DBTYPE>
+  <SERVER>10.3.0.31</SERVER>
+  <DB>SJEMSSYS</DB>
+  <USER>sa</USER>
+  <PWD>Aa123456</PWD>
+</Config>

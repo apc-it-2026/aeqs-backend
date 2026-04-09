@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="GDSJFramework_NETCore">
+      <HintPath>..\..\..\library\GDSJFramework_NETCore.dll</HintPath>
+    </Reference>
+    <Reference Include="GDSJ_Framework">
+      <HintPath>..\..\..\..\AEQS_FinalSourceCode\deliveryFile\WebApi\SJ_OPAPI\bin\Debug\netcoreapp2.1\GDSJ_Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SJeMES_Framework_NETCore">
+      <HintPath>..\..\..\..\AEQS_FinalSourceCode\deliveryFile\WebApi\SJ_OPAPI\bin\Debug\netcoreapp2.1\SJeMES_Framework_NETCore.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+D:\TFS_Source_Code\AEQS\WebApi\ClassLibrary1\bin\Debug\netstandard2.1\ClassLibrary1.deps.json
+D:\TFS_Source_Code\AEQS\WebApi\ClassLibrary1\bin\Debug\netstandard2.1\ClassLibrary1.dll
+D:\TFS_Source_Code\AEQS\WebApi\ClassLibrary1\bin\Debug\netstandard2.1\ClassLibrary1.pdb
+D:\TFS_Source_Code\AEQS\WebApi\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.csproj.AssemblyReference.cache
+D:\TFS_Source_Code\AEQS\WebApi\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.AssemblyInfoInputs.cache
+D:\TFS_Source_Code\AEQS\WebApi\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.AssemblyInfo.cs
+D:\TFS_Source_Code\AEQS\WebApi\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\TFS_Source_Code\AEQS\WebApi\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.dll
+D:\TFS_Source_Code\AEQS\WebApi\ClassLibrary1\obj\Debug\netstandard2.1\ClassLibrary1.pdb

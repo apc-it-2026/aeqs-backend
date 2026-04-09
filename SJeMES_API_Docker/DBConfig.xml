@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <DBTYPE>MySql</DBTYPE>
+  <SERVER>112.74.49.34</SERVER>
+  <DB>sjemessys_test</DB>
+  <USER>root</USER>
+  <PWD>sdfhoi28190@sdfklahoySDS98</PWD>
+</Config>
+
+

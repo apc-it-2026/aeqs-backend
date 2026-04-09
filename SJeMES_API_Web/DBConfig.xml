@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <DBTYPE>SQLServer</DBTYPE>
+  <SERVER>127.0.0.1</SERVER>
+  <DB>SJEMESSYS</DB>
+  <USER>sa</USER>
+  <PWD>123</PWD>
+</Config>
+
+

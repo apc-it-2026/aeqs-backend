@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SJ_BASEAPI\SJ_BASEAPI.csproj" />
+    <ProjectReference Include="..\SJ_BDMAPI\SJ_BDMAPI.csproj" />
+    <ProjectReference Include="..\SJ_QCMAPI\SJ_QCMAPI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GDSJ_Framework">
+      <HintPath>..\..\..\library\GDSJ_Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\SJ_OPAPI\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SJeMES_Framework_NETCore">
+      <HintPath>..\SJ_AQLAPI\bin\Debug\netcoreapp2.0\SJeMES_Framework_NETCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Utility">
+      <HintPath>..\..\..\..\AEQS_FinalSourceCode\deliveryFile\WebApi\SJ_KanBanAPI\bin\Debug\netcoreapp2.1\Utility.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

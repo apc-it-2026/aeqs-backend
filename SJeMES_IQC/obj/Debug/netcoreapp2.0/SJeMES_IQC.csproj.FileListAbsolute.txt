@@ -1,0 +1,56 @@
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_IQC.deps.json
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_IQC.dll
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_IQC.pdb
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_Framework_NETCore.dll
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_MESAPI.dll
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_QCMAPI.dll
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_SAPAPI.dll
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_MESAPI.pdb
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_QCMAPI.pdb
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_SAPAPI.pdb
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.csprojAssemblyReference.cache
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.csproj.CoreCompileInputs.cache
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.AssemblyInfoInputs.cache
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.AssemblyInfo.cs
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.csproj.CopyComplete
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.dll
+E:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.pdb
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_IQC.deps.json
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_IQC.dll
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_IQC.pdb
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_Framework_NETCore.dll
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_MESAPI.dll
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_QCMAPI.dll
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_SAPAPI.dll
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_MESAPI.pdb
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_QCMAPI.pdb
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_SAPAPI.pdb
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.csprojAssemblyReference.cache
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.csproj.CoreCompileInputs.cache
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.AssemblyInfoInputs.cache
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.AssemblyInfo.cs
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.csproj.CopyComplete
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.dll
+D:\Premika data\TFS\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.pdb
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_IQC.deps.json
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_IQC.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_IQC.pdb
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJeMES_Framework_NETCore.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_MESAPI.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_QCMAPI.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_SAPAPI.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_MESAPI.pdb
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_QCMAPI.pdb
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\bin\Debug\netcoreapp2.0\SJ_SAPAPI.pdb
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.csprojAssemblyReference.cache
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.csproj.CoreCompileInputs.cache
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.AssemblyInfoInputs.cache
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.AssemblyInfo.cs
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.csproj.CopyComplete
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.dll
+D:\TFS_Source_Code\AEQS\WebApi\SJeMES_IQC\obj\Debug\netcoreapp2.0\SJeMES_IQC.pdb
